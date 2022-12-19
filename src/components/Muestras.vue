@@ -110,6 +110,44 @@ div
 
   Separador
 
+  #audio.titulo-segundo.color-acento-botones
+    h2.mb-2 Audio
+
+  h3.titulo-tercero Botones audio
+  .d-flex.mb-5
+    Audio.color-primario.mx-3(
+      :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+      @audio-hover="mostrarIndicadorAudio = false"
+    )
+      .indicador--click(v-if="mostrarIndicadorAudio")
+    Audio.color-secundario.mx-3(:audio="require('@/assets/componentes/audios/audio-ej.mp3')")
+    Audio.color-acento-contenido.mx-3(:audio="require('@/assets/componentes/audios/audio-ej.mp3')")
+    Audio.color-acento-botones.mx-3(:audio="require('@/assets/componentes/audios/audio-ej.mp3')")
+
+  h3.titulo-tercero Tarjetas Audio 
+  .row
+    .col-lg-6
+      TarjetaAudio.color-primario.mb-3(
+        texto="Texto de muestra"
+        :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+        @audio-hover="mostrarIndicadorTarjetaAudio = false"
+      )
+        .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
+      TarjetaAudio.color-secundario.mb-3(
+        texto="Texto de muestra <br> Texto de muestra"
+        :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+      )
+      TarjetaAudio.color-acento-contenido.mb-3(
+        texto="Texto de muestra"
+        :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+        no-barra
+      )
+      TarjetaAudio.color-acento-botones.mb-3(
+        texto="Texto de muestra"
+        :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+      )
+  Separador
+
   #listas.titulo-segundo.color-acento-botones
     h2 Listas
 
@@ -451,7 +489,7 @@ div
   //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
   .tabla-b.color-acento-contenido.mb-5
     .tabla-b__header
-      h5.mb-0 Niveles del lenguaje
+      h4.mb-0 Niveles del lenguaje
     table
       caption Leyenda de la tabla
       tr
@@ -1310,6 +1348,18 @@ div
         .col-md-6
           h4 Celebrate your failures 6
           p This is another paragraph. I think it needs to be added that the set of elements tested is not exhaustive in any sense. I have selected those elements for which it can make sense to write user style sheet rules, in my opionion.
+
+  Separador
+
+  #actividad_dialogo.titulo-segundo.color-acento-botones
+    h2 Actividad dialogo Ingles
+
+  Dialogo.color-primario(:dialogo="dialogo")
+    template(#nombre-actividad) Arrastrar y Soltar
+    template(#titulo-actividad) Titulo de actividad - Completa la conversación.
+    template(#descripcion-actividad) Arrastra y suelta el cada una de las palabras en el orden correcto.
+    //- template(#feedback-correcto) Bien!
+    //- template(#feedback-incorrecto) Mal!
 
   Separador
 
@@ -2297,8 +2347,60 @@ export default {
     indicadorImagenZoom: true,
     indicadorTarjetaFlip: true,
     indicadorTarjetaSlide: true,
+    mostrarIndicadorAudio: true,
+    mostrarIndicadorTarjetaAudio: true,
     modal1: false,
     modal2: false,
+    dialogo: {
+      personajes: [
+        {
+          nombre: 'Hanna',
+          img: require('@/assets/componentes/ej-05.svg'),
+        },
+        {
+          nombre: 'Jhon',
+          img: require('@/assets/componentes/ej-05.svg'),
+        },
+      ],
+      dialogo: [
+        {
+          personaje: 'Hanna',
+          textoIng: 'I need the biology book and the sheets.',
+          textoEsp: 'Yo necesito el libro de biologia y las diapositivas.',
+          audio: require('@/assets/componentes/audios/audio-ej.mp3'),
+        },
+        {
+          personaje: 'Jhon',
+          textoIng:
+            'I need the *** book and the sheets book and the sheets book and the sheets book and the sheets.',
+          textoEsp:
+            'Yo necesito el libro de *** y las diapositivas Yo necesito el libro de Yo necesito el libro de Yo necesito el libro de .',
+          audio: require('@/assets/componentes/audios/audio-ej.mp3'),
+          palabra: 'Biology1',
+        },
+        {
+          personaje: 'Hanna',
+          textoIng: 'I need the biology books and the ***.',
+          textoEsp: 'Yo necesito el libro de biologia y las ***.',
+          audio: require('@/assets/componentes/audios/audio-ej.mp3'),
+          palabra: 'sheets2',
+        },
+        {
+          personaje: 'Jhon',
+          textoIng: 'I *** the biology books and the sheets',
+          textoEsp: 'Yo *** el libro de biologia y las diapositivas.',
+          audio: require('@/assets/componentes/audios/audio-ej.mp3'),
+          palabra: 'need3',
+        },
+        {
+          personaje: 'Hanna',
+          textoIng: 'I need the biology books and the ***.',
+          textoEsp: 'Yo necesito el libro de biologia y las ***.',
+          audio: require('@/assets/componentes/audios/audio-ej.mp3'),
+          palabra: 'sheets4',
+        },
+      ],
+    },
     datosLineaTiempoA: [
       {
         ano: '100.000 - 10.000 A.C.',
