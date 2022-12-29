@@ -191,7 +191,7 @@
       .col-lg-8
         AcordionA(tipo="a" clase-tarjeta="tarjeta t-pur2")
           .row(titulo="Su naturaleza")
-              p.pp-l Se clasificar en:
+              p.pp-l Se clasifica en:
               p.pp-l Documento público: es aquel que es otorgado o autorizado por la ley o por un registrador, notario, secretario judicial u otro funcionario.
               p.pp-l Documento privado: es redactado por las partes interesadas sin necesidad de la intervención de un funcionario que le dé autoridad.
           .row(titulo="Su finalidad")
@@ -350,7 +350,7 @@
           .col-md-6.mb-4.mb-md-0
             h3 Clasificación
             p Es la identificación de documentos con características similares, teniendo en cuenta la estructura organizacional de la entidad y los trámites adelantados en cada una de sus dependencias; como resultando se obtienen agrupaciones de acuerdo a cada campo de trabajo. 
-            p Según Godoy, J. & López, M. (2001) en la Cartilla de clasificación documental del Archivo Central indican que como proceso archivístico, la clasificación permite la identificación y el agrupamiento sistemático de documentos semejantes con características comunes como teniendo como la base la estructura orgánico - funcional de las instituciones y los trámites administrativos que adelantan las dependencias en el ejercicio de sus funciones. La clasificación debe reflejar la estructura de cada entidad de tal manera que las agrupaciones documentales resultantes correspondan a las subdivisiones que conforman la institución. (p. 7). Dicha clasificación se detalla de la siguiente manera:
+            p Según Godoy, J. & López, M. (2001) en la<em> Cartilla de clasificación documental</em> del Archivo Central indican que como proceso archivístico, la clasificación permite la identificación y el agrupamiento sistemático de documentos semejantes con características comunes como teniendo como la base la estructura orgánico - funcional de las instituciones y los trámites administrativos que adelantan las dependencias en el ejercicio de sus funciones. La clasificación debe reflejar la estructura de cada entidad de tal manera que las agrupaciones documentales resultantes correspondan a las subdivisiones que conforman la institución. (p. 7). Dicha clasificación se detalla de la siguiente manera:
             figure
               img(src='@/assets/curso/temas/tema2/img-t.svg')  
           .col-md-6
@@ -359,7 +359,7 @@
         .row.my-5
           .col-md-6.mb-4.mb-md-0
             h3 Ordenación
-            p Son esquemas que muestran la jerarquización y clasificación documental de la organización se pueden hacer de manera numérica o alfanumérica, en donde cada digito representará el nivel jerárquico que tendrá la organización. 
+            p Son esquemas que muestran la jerarquización y clasificación documental de la organización se pueden hacer de manera numérica o alfanumérica, en donde cada dígito representará el nivel jerárquico que tendrá la organización. 
             p Ejemplo:
             ul.lista-ul--color.mb-3.pp-l
               li.mb-0 

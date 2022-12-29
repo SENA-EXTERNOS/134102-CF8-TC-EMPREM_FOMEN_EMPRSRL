@@ -7,7 +7,7 @@
         span 1
       h1 Historia y evolución de los archivos
 
-    p.mb-5 Es necesario iniciar este componente conociendo de dónde proviene la palabra archivo, esta procede del latín archivum, aunque su origen más remoto se encuentra en la lengua griega y puede traducirse como ‘residencia de los magistrados’. El término se utiliza para nombrar al conjunto ordenado de documentos que una sociedad, una institución o una persona elabora en el marco de sus actividades y funciones. (Definición. De, 2011, definición de archivo, párr. 1).
+    p.mb-5 Es necesario iniciar este componente conociendo de dónde proviene la palabra archivo, esta procede del latín <em>archivum,</em> aunque su origen más remoto se encuentra en la lengua griega y puede traducirse como ‘residencia de los magistrados’. El término se utiliza para nombrar al conjunto ordenado de documentos que una sociedad, una institución o una persona elabora en el marco de sus actividades y funciones. (Definición. De, 2011, <em>definición de archivo,</em> párr. 1).
     p.mb-5 En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
 
     figure.mb-5
@@ -73,7 +73,7 @@
           h5 Figura 1. 
           span Normas de gestión documental y descripción archivística
         figure
-          img(src='@/assets/curso/temas/tema1/img-3.svg')  
+          img(src='@/assets/curso/temas/tema1/img-3.png')  
 
     p.mb-5 A continuación, conocerá algunas de las normas de gestión documental y descripción archivística:
 
@@ -100,13 +100,13 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7
         TabsA.color-acento-contenido.mb-5
-          .tarjeta.tarjeta--azul2.p-4(titulo="Ley 80 de 1989")
+          .tarjeta.tarjeta--azul2.p-4(titulo="Ley 80 de<br> 1989")
             p Por la cual se crea el Archivo General de la Nación y se dictan otras disposiciones.       
-          .tarjeta.tarjeta--azul2.p-4(titulo="Ley 4 de 1993")
+          .tarjeta.tarjeta--azul2.p-4(titulo="Ley 4 de<br> 1993")
             p Obligación de las entidades oficiales de entregar y recibir inventariados los documentos de los archivos.       
-          .tarjeta.tarjeta--azul2.p-4(titulo="Ley 44 de 1993")
+          .tarjeta.tarjeta--azul2.p-4(titulo="Ley 44 de<br> 1993")
             p Sobre derechos de autor, funcionarios públicos.       
-          .tarjeta.tarjeta--azul2.p-4(titulo="Ley 527 de 1999")
+          .tarjeta.tarjeta--azul2.p-4(titulo="Ley 527 de<br> 1999")
             p Por medio de la cual se define y reglamenta el acceso y uso de los mensajes de datos, del comercio electrónico y las firmas digitales, y se establecen las entidades de certificación y se dictan otras disposiciones.       
           .tarjeta.tarjeta--azul2.p-4(titulo="Ley 594 de 2000")
             p Por medio de la cual se dicta la Ley General de Archivos y se dictan otras disposiciones.       
@@ -131,7 +131,7 @@
 
     .row.justify-content-between.align-items-between.mb-5
       .col-lg-7
-        p.mb-3 Las instituciones emplean los organigramas como una herramienta visual que les ayuda de manera grafica a delimitar y fijar jerarquías, funciones y responsabilidades. Estos a su vez permiten tener una mejor división del trabajo y un mayor control en la comunicación interna de los colaboradores. 
+        p.mb-3 Las instituciones emplean los organigramas como una herramienta visual que les ayuda de manera gráfica a delimitar y fijar jerarquías, funciones y responsabilidades. Estos a su vez permiten tener una mejor división del trabajo y un mayor control en la comunicación interna de los colaboradores. 
         p.mb-5 La normativa cambiante obliga a las entidades, en su mayoría estatales, a realizar modificaciones constantes en su estructura orgánica y funcional, mientras que en las entidades privadas dependen más de sus políticas internas. 
       .col-lg-5
         figure
@@ -148,7 +148,7 @@
         figure
           img(src='@/assets/curso/temas/tema1/img-7.svg')  
       .col-lg-7
-        p.mb-5 Las organizaciones deben dar balances de todas sus actuaciones, por lo tanto, es de su competencia revisar a qué normas obedece con el objetivo de dar cumplimiento, así mismo, estas deben ser socializadas con sus colaboradores. Es por ello que el uso de un ‘normograma’ facilita dicha tarea, ya que es una herramienta que permite a las entidades públicas y privadas delimitar las normas que regulan sus actuaciones en desarrollo con su objeto misional. (Normograma y gestión documental, Ministerio de justicia y derecho, 2015, p. 3). 
+        p.mb-5 Las organizaciones deben dar balances de todas sus actuaciones, por lo tanto, es de su competencia revisar a qué normas obedece con el objetivo de dar cumplimiento, así mismo, estas deben ser socializadas con sus colaboradores. Es por ello que el uso de un ‘normograma’ facilita dicha tarea, ya que es una herramienta que permite a las entidades públicas y privadas delimitar las normas que regulan sus actuaciones en desarrollo con su objeto misional. (<em>Normograma y gestión documental,</em> Ministerio de justicia y derecho, 2015, p. 3). 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10

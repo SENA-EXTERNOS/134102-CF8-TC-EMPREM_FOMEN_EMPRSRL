@@ -29,7 +29,7 @@
                   .tarjeta-flip__contenedor
                     .tarjeta-flip__img.fnd-5(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-2.svg')})`}")
                     .tarjeta-flip__contenido.p-4.p-xl-5.fnd-4
-                      p.text-center.pp Determina la clasificación, organización, descripción y distribución, permitiendo identificarlos con anticipación y facilitando su evaluación.
+                      p.text-center.pp Dando lugar a un diseño integrado de gestión de documentos sin comprometer la configuración de la red, los archivos servirán como residencias sucesivas para los documentos según su antigüedad.
 
               .col-sm-10.col-xl-6.mb-4.mb-xl-0.hh1.img-384
                 .tarjeta.tarjeta-flip.color-acento-contenido(@mouseover="indicadorTarjetaFlip = false")
@@ -37,7 +37,7 @@
                   .tarjeta-flip__contenedor
                     .tarjeta-flip__img.fnd-5(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-3.svg')})`}")
                     .tarjeta-flip__contenido.p-4.p-xl-5.fnd-4
-                      p.text-center.pp Dando lugar a un diseño integrado de gestión de documentos sin comprometer la configuración de la red, los archivos servirán como residencias sucesivas para los documentos según su antigüedad.
+                      p.text-center.pp Determina la clasificación, organización, descripción y distribución, permitiendo identificarlos con anticipación y facilitando su evaluación.
     br
 
     .row.justify-content-center.align-items-center.mb-5
