@@ -70,8 +70,9 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 1. 
-          span Normas de gestión documental y descripción archivística
+          h5 Figura 1
+          p.mb-0
+            em Normas de gestión documental y descripción archivística
         figure
           img(src='@/assets/curso/temas/tema1/img-3.png')  
 
@@ -108,9 +109,9 @@
             p Sobre derechos de autor, funcionarios públicos.       
           .tarjeta.tarjeta--azul2.p-4(titulo="Ley 527 de<br> 1999")
             p Por medio de la cual se define y reglamenta el acceso y uso de los mensajes de datos, del comercio electrónico y las firmas digitales, y se establecen las entidades de certificación y se dictan otras disposiciones.       
-          .tarjeta.tarjeta--azul2.p-4(titulo="Ley 594 de 2000")
+          .tarjeta.tarjeta--azul2.p-4(titulo="Ley 594 de<br> 2000")
             p Por medio de la cual se dicta la Ley General de Archivos y se dictan otras disposiciones.       
-          .tarjeta.tarjeta--azul2.p-4(titulo="Ley 734 de 2002")
+          .tarjeta.tarjeta--azul2.p-4(titulo="Ley 734 de<br> 2002")
             p Código Disciplinario Único.       
 
       .col-lg-5

@@ -312,7 +312,7 @@
                 i.fas.fa-check
                 p.mb-0 Documentos materiales
        
-          .tarjeta.tarjeta--azul2.p-4(titulo="El ente o autor")
+          .tarjeta.tarjeta--azul2.p-4(titulo="El ente o <br>autor")
             ul.lista-ul--color.mb-3
               li.mb-0 
                 i.fas.fa-check

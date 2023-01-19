@@ -199,8 +199,9 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 2. 
-          span Ejemplo de memorando
+          h5 Figura 2 
+          p.mb-0
+            em Ejemplo de memorando
         figure
           img(src='@/assets/curso/temas/tema4/img-4.svg')  
           figcaption.mt-3 Nota. Tomado y adaptado de GTC 185 Documentación organizacional.
@@ -214,10 +215,10 @@
     p.mb-5 Se refiere al documento dirigido a un grupo específico interno, con la finalidad de informar disposiciones, normas, lineamientos y políticas y, externamente, con el propósito dar a conocer reglas de negocios, nuevos productos o servicios, entre otros.
 
     .row.justify-content-center.align-items-between.mb-5
-      .col-lg-4
+      .col-lg-4.col-md-3
         figure
           img(src='@/assets/curso/temas/tema4/img-5.svg')      
-      .col-lg-8
+      .col-lg-8.col-md-9
         TabsA.color-acento-contenido.mb-5
           .tarjeta.tarjeta--azul2.p-4(titulo="Encabezado")
             p De cero a una interlínea libre de la zona 1 se escribe la palabra circular, en mayúscula sostenida y centrada, acompañada por el consecutivo que la identifica, si se requiere.    
@@ -240,7 +241,7 @@
         h3.text-black Actas
 
     p.mb-5 Se refiere al acto administrativo que se constituye en la constancia o memoria de las reuniones, cumple la finalidad de relacionar las actividades realizadas de acuerdo con la agenda planificada, registro de los asistentes y ausentes, además de la descripción de los compromisos generados, según el objeto de la misma. 
-    p.mb-5 Lo invitamos a ver el siguiente video, para conocer los componentes del acta.
+    p.mb-5 Lo invitamos a ver el siguiente video, para conocer los componentes del acta:
     figure.mb-5
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)

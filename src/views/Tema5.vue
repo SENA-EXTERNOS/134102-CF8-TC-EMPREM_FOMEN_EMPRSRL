@@ -22,7 +22,7 @@
         | 
         h3.text-black Tipología textual 
 
-    p.mb-3 Son representaciones que apelan los emisores, con el fin de diseñar textos, según la intención de expresar, informar, comunicar, realizar solicitudes, o dejar constancia de alguna situación.
+    p.mb-3 Son representaciones a las que apelan los emisores, con el fin de diseñar textos, según la intención de expresar, informar, comunicar, realizar solicitudes, o dejar constancia de alguna situación.
 
     p.mb-5 Los tipos de texto son:
 
@@ -97,7 +97,7 @@
           .col-8
             img.img-150.img-t(src='@/assets/curso/temas/tema5/img-9.svg' alt='AvatarTop')
         h3.text-center.text-white Adjetivo
-        p.text-center.px-4.text-white Complementa el sentido del sustantivo, lo acompaña, le aporta cualidades y características que proporcionan información sobre sus estados o realidades, con distintas naturalezas.
+        p.text-center.px-4.px-md-2.text-white Complementa el sentido del sustantivo, lo acompaña, le aporta cualidades y características que proporcionan información sobre sus estados o realidades, con distintas naturalezas.
       .tarjeta.color-acento.p-4.fnd-6.tarjeta-avatar1
         .row.justify-content-center.mb-3
           .col-8
@@ -245,7 +245,7 @@
         .cajon.color-primario.p-4.fnd-1.px-5
           p Todo funcionario público o de una entidad privada, debe redactar currículums, comunicaciones, oficios, informes, actas e incluso correos electrónicos entre otros documentos; escribir puede ser una tarea compleja que requiere práctica; por lo tanto, se debe considerar: delimitar la temática, investigar sobre el tema, establecer subtemas, definir la extensión del texto, diseñar una radiografía textual, escribir, leer y corregir.
 
-    p.mb-5 Para mejorar habilidades escritas, se sugiere tener en cuenta los siguientes principios fundamentales para la redacción de cualquier escrito informativo, documental, científico, oficial o particular.
+    p.mb-5 Para mejorar habilidades escritas, se sugiere tener en cuenta los siguientes principios fundamentales para la redacción de cualquier escrito informativo, documental, científico, oficial o particular:
 
     .row.mb-5
       .col-md-6.col-lg.mb-5.mb-lg-0.m-0.p-0
