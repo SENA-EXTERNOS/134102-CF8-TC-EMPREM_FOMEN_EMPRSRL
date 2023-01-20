@@ -137,7 +137,7 @@ export default {
     },
     {
       referencia:
-        'Archivo General de la Nación. Colombia. (2012).<em> Objetivos.</em> Archivo General de la Nación.',
+        'Archivo General de la Nación (2012).<em> Objetivos.</em> Archivo General de la Nación.',
       link: 'https://www.archivogeneral.gov.co/Conozcanos/objetivos',
     },
     {
@@ -151,7 +151,7 @@ export default {
     },
     {
       referencia:
-        'Definición. DE. (2011).<em> Definición de archivo. Definicion.de https://definicion.de/archivo/</em>',
+        'Definición. DE (2011).<em> Definición de archivo. Definicion.de https://definicion.de/archivo/</em>',
       link: 'https://definicion.de/archivo/',
     },
     {
@@ -232,7 +232,7 @@ export default {
     {
       tema: 'Historia y evolución de los archivos',
       referencia:
-        'Flórez, J. (2011). <em>Guía metodológica para la investigación de historias institucionales. 14_Guía_Metodológica_Historias_Institucionales.pdf (secretariageneral.gov.co)</em>',
+        'Flórez, J. (2011). <em>Guía metodológica para la investigación de historias institucionales.',
       tipo: 'PDF',
       link:
         'https://archivobogota.secretariageneral.gov.co/sites/default/files/documentacion-archivo/14_Gui%CC%81a_Metodolo%CC%81gica_Historias_Institucionales.pdf',
@@ -240,7 +240,7 @@ export default {
     {
       tema: 'Historia y evolución de los archivos',
       referencia:
-        'Departamento administrativo de la función pública (2015). <em>Guía para la organización de archivos de gestión y transferencias documentales.</em> MANUAL DE CALIDAD (funcionpublica.gov.co)',
+        'Departamento administrativo de la función pública (2015). <em>Guía para la organización de archivos de gestión y transferencias documentales.</em>',
       tipo: 'PDF',
       link:
         'https://www.funcionpublica.gov.co/documents/418537/506991/2.+Guia+para+la+Organizaci%25C3%25B3n+de+los+Archivos+de+Gesti%25C3%25B3n+y+Transferencias+documentales+V3.pdf/040e3005-c101-4ae4-be58-97e56c10bd49',
@@ -248,7 +248,7 @@ export default {
     {
       tema: 'Documentos y gestión documental',
       referencia:
-        'Ley 594 de 2000. Por medio de la cual se dicta la Ley General de Archivos y se dictan otras disposiciones. Julio 14 de 2000. DO. No. 44.093 http://www.secretariasenado.gov.co/senado/basedoc/ley_0594_2000.html',
+        'Ley 594 de 2000. Por medio de la cual se dicta la Ley General de Archivos y se dictan otras disposiciones. Julio 14 de 2000. DO. No. 44.093',
       tipo: 'Ley',
       link:
         'http://www.secretariasenado.gov.co/senado/basedoc/ley_0594_2000.html',
@@ -256,7 +256,7 @@ export default {
     {
       tema: 'Documentos y gestión documental',
       referencia:
-        'Godoy, J., & López, M. (2001). <em>Cartilla de clasificación Documental. Archivo General de la Nación.</em> CLASIFICACION DOCUMENTAL.pdf (archivogeneral.gov.co)',
+        'Godoy, J., & López, M. (2001). <em>Cartilla de clasificación Documental. Archivo General de la Nación.</em>',
       tipo: 'PDF',
       link:
         'https://www.archivogeneral.gov.co/caja_de_herramientas/docs/5.%20organizacion/MANUALES/CLASIFICACION%20DOCUMENTAL.pdf',
