@@ -82,12 +82,6 @@ export default {
         titulo: 'Redacción de documentos',
         desarrolloContenidos: true,
       },
-      {
-        nombreRuta: 'sintesis',
-        icono: 'fas fa-sitemap',
-        titulo: 'Síntesis',
-        desarrolloContenidos: true,
-      },
     ],
     subMenu: [
       {
