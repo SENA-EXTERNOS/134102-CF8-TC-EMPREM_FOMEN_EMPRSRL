@@ -125,18 +125,18 @@ export default {
   referencias: [
     {
       referencia:
-        'Alonso, J., García, M., & Lloveras, M. (s.f.).<em> La norma ISO 15489: Un marco sistemático de buenas prácticas de gestión documental en las organizaciones. </em>La norma ISO 15489 (rclis.org)',
+        'Alonso, J., García, M., & Lloveras, M. (s.f.).<em> La norma ISO 15489: Un marco sistemático de buenas prácticas de gestión documental en las organizaciones. </em>',
       link:
         'http://eprints.rclis.org/12263/1/Alonso_Garcia_Lloveras_-_La_norma_ISO_15489.pdf',
     },
     {
       referencia:
-        'Archivo General de la Nación (2012).<em> Objetivos.</em> Archivo General de la Nación.',
+        'Archivo General de la Nación (2012). <em>Objetivos</em> Archivogeneral',
       link: 'https://www.archivogeneral.gov.co/Conozcanos/objetivos',
     },
     {
       referencia:
-        'Comité Técnico de Normalización número 50. (s.f.). <em>Información y documentación. Gestión de documentos. Informe técnico</em> ISO/TR 15489-1. ISO_15489.2.pdf (uma.es)',
+        'Comité Técnico de Normalización número 50. (s.f.). <em>Información y documentación. Gestión de documentos. Informe técnico</em> ISO/TR 15489-1.',
       link: 'https://www.uma.es/media/tinyimages/file/ISO_15489.2.pdf',
     },
     {
@@ -145,12 +145,12 @@ export default {
     },
     {
       referencia:
-        'Definición. DE. (2011).<em> Definición de archivo. Definicion.de https://definicion.de/archivo/</em>',
+        'Definición. DE (2011). <em>Definición de archivo.</em> definicion.de. </em>',
       link: 'https://definicion.de/archivo/',
     },
     {
       referencia:
-        'Godoy, J., & López, M. (2001). <em>Cartilla de clasificación Documental. Archivo General de la Nación.</em> CLASIFICACION DOCUMENTAL.pdf (archivogeneral.gov.co)',
+        'Godoy, J., & López, M. (2001). <em>Cartilla de clasificación Documental. Archivo General de la Nación.</em>',
       link:
         'https://www.archivogeneral.gov.co/caja_de_herramientas/docs/5.%20organizacion/MANUALES/CLASIFICACION%20DOCUMENTAL.pdf',
     },
@@ -166,7 +166,7 @@ export default {
     },
     {
       referencia:
-        'Parra, G. (2017).<em> La gestión documental en las universidades públicas de Bogotá D.C.: Aplicación Normatividad. </em>Información archivística Rio de Janeiro. 54475 (brapci.inf.br)',
+        'Parra, G. (2017).<em> La gestión documental en las universidades públicas de Bogotá D.C.: Aplicación Normatividad. </em>Información archivística Rio de Janeiro.',
       link: 'https://brapci.inf.br/index.php/res/download/54475',
     },
   ],
