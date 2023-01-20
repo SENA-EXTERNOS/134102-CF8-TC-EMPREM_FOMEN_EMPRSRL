@@ -131,7 +131,7 @@ export default {
     },
     {
       referencia:
-        'Archivo General de la Nación (2012). <em>Objetivos</em> Archivogeneral',
+        'Archivo General de la Nación (2012). <em>Objetivos.</em> Archivogeneral. ',
       link: 'https://www.archivogeneral.gov.co/Conozcanos/objetivos',
     },
     {
@@ -150,7 +150,7 @@ export default {
     },
     {
       referencia:
-        'Godoy, J., & López, M. (2001). <em>Cartilla de clasificación Documental. Archivo General de la Nación.</em>',
+        'Godoy, J., & López, M. (2001). <em>Cartilla de clasificación Documental. Archivo General de la Nación. </em>',
       link:
         'https://www.archivogeneral.gov.co/caja_de_herramientas/docs/5.%20organizacion/MANUALES/CLASIFICACION%20DOCUMENTAL.pdf',
     },
