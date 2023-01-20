@@ -151,7 +151,7 @@ export default {
     },
     {
       referencia:
-        'Definición. DE (2011).<em> Definición de archivo. Definicion.de https://definicion.de/archivo/</em>',
+        'Definición. DE. (2011).<em> Definición de archivo. Definicion.de https://definicion.de/archivo/</em>',
       link: 'https://definicion.de/archivo/',
     },
     {
@@ -256,7 +256,7 @@ export default {
     {
       tema: 'Documentos y gestión documental',
       referencia:
-        'Godoy, J., & López, M. (2001). <em>Cartilla de clasificación Documental. Archivo General de la Nación.</em>',
+        'Godoy, J., & López, M. (2001). <em>Cartilla de clasificación Documental. Archivo General.</em>',
       tipo: 'PDF',
       link:
         'https://www.archivogeneral.gov.co/caja_de_herramientas/docs/5.%20organizacion/MANUALES/CLASIFICACION%20DOCUMENTAL.pdf',
