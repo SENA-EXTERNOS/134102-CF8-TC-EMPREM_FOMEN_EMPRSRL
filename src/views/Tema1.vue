@@ -8,7 +8,8 @@
       h1 Historia y evolución de los archivos
 
     p.mb-5 Es necesario iniciar este componente conociendo de dónde proviene la palabra archivo, esta procede del latín <em>archivum,</em> aunque su origen más remoto se encuentra en la lengua griega y puede traducirse como ‘residencia de los magistrados’. El término se utiliza para nombrar al conjunto ordenado de documentos que una sociedad, una institución o una persona elabora en el marco de sus actividades y funciones. (Definición. De, 2011, <em>definición de archivo,</em> párr. 1).
-    p.mb-5 En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
+    p.mb-5 Para conocer la importancia de la historia de los archivos en la sociedad se invita a ver el siguiente video:
+
 
     figure.mb-5
       .video
