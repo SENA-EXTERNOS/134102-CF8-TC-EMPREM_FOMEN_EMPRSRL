@@ -146,7 +146,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .cajon.color-acento-contenido.p-4.fnd-2.px-5
-          p Los documentos con el pasar de los años nunca pierden validez, pues son un apoyo tangible para la humanidad, debido a que a lo largo del tiempo recogen datos donde reposa la historia, la evolución e información concreta que se han sucedido en el pasado o que está ocurriendo en el ahora. Dicho de otro modo, los documentos preservan intacta la información que es importante y relevante, permiten conocer la evidencia de crecimiento y desarrollo de una situación en el entorno, además son una constancia física y escrita de un acontecimiento importante en el pasado o en el presente.
+          p Los documentos con el pasar de los años nunca pierden validez, pues son un apoyo tangible para la humanidad, debido a que a lo largo del tiempo recogen datos donde reposa la historia, la evolución e información concreta que ha sucedido en el pasado o que está ocurriendo en el ahora. Dicho de otro modo, los documentos preservan intacta la información que es importante y relevante, permiten conocer la evidencia de crecimiento y desarrollo de una situación en el entorno, además son una constancia física y escrita de un acontecimiento importante en el pasado o en el presente.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         p.mb-3 Es así como un documento cuenta la historia de una empresa desde sus orígenes hasta su trayectoria actual siendo consecuente con los objetivos trazados desde su inicio.   
@@ -350,7 +350,7 @@
           .col-md-6.mb-4.mb-md-0
             h3 Clasificación
             p Es la identificación de documentos con características similares, teniendo en cuenta la estructura organizacional de la entidad y los trámites adelantados en cada una de sus dependencias; como resultando se obtienen agrupaciones de acuerdo a cada campo de trabajo. 
-            p Según Godoy, J. & López, M. (2001) en la<em> Cartilla de clasificación documental</em> del Archivo Central indican que como proceso archivístico, la clasificación permite la identificación y el agrupamiento sistemático de documentos semejantes con características comunes como teniendo como la base la estructura orgánico - funcional de las instituciones y los trámites administrativos que adelantan las dependencias en el ejercicio de sus funciones. La clasificación debe reflejar la estructura de cada entidad de tal manera que las agrupaciones documentales resultantes correspondan a las subdivisiones que conforman la institución. (p. 7). Dicha clasificación se detalla de la siguiente manera:
+            p Según Godoy, J. & López, M. (2001) en la #[i Cartilla de clasificación documental] del Archivo Central indican que como proceso archivístico, la clasificación permite la identificación y el agrupamiento sistemático de documentos semejantes con características comunes teniendo como base la estructura orgánico - funcional de las instituciones y los trámites administrativos que adelantan las dependencias en el ejercicio de sus funciones. La clasificación debe reflejar la estructura de cada entidad de tal manera que las agrupaciones documentales resultantes correspondan a las subdivisiones que conforman la institución. (p. 7). Dicha clasificación se detalla de la siguiente manera:
             figure
               img(src='@/assets/curso/temas/tema2/img-t.svg')  
           .col-md-6

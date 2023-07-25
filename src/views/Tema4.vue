@@ -304,7 +304,7 @@
                   h3.mb-1 Otros documentos
                   p.text-small Para conocerlas, lo invitamos a leer el PDF  otros documentos.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="('downloads/Otros Documentos.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="('downloads/Otros_Documentos.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
