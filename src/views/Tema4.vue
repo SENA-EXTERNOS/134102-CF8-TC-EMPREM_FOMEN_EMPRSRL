@@ -15,7 +15,7 @@
           .bloque-texto-g__texto.p-4
             p Con el ánimo de orientar, a través de unas herramientas, el diseño de los diferentes documentos que se gestionan en una entidad, el Instituto Colombiano de Normas Técnicas y Certificación, ICONTEC, en el año 2009, diseñó la Guía Técnica Colombiana GTC 185, denominada “Documentación Organizacional”, la cual define los parámetros para el diseño de los diferentes documentos que se expiden en las organizaciones, iniciando con la formulación de algunos conceptos de las partes de cada documento, con el fin de identificar y afianzar la estructura, determinando el objeto y el alcance de cada uno.
   
-      p.mb-5 El diseño de los documentos, de acuerdo con la guía, demarca una serie de recomendaciones técnicas, en relación a la impresión, diligenciamiento según las zonas o áreas del mismo, márgenes, estilos, fuente, elementos esenciales como datos y generalidades.
+      p El diseño de los documentos, de acuerdo con la guía, demarca una serie de recomendaciones técnicas, en relación a la impresión, diligenciamiento según las zonas o áreas del mismo, márgenes, estilos, fuente, elementos esenciales como datos y generalidades.
       p.mb-5 La GTC 185 definió los documentos más relevantes que se utilizan en una organización; en la guía se establece el alcance, estilos, fuente y las características que se deben tener en cuenta para su elaboración. A continuación, se presentan cada uno de estos documentos.
 
     ul.lista-ul--color.mb-3
@@ -23,14 +23,16 @@
         i.fas.fa-square
         | 
         h3.text-black Comunicaciones
-    p.mb-5 Se refiere a un documento de tipo organizacional, mediante el cual se establece interacción con entes externos e internos, a través de información. Es utilizado para hacer énfasis sobre un tema concreto y específico. Se puede elaborar de forma física o por medio electrónico, según la herramienta dispuesta para tal fin.
+    
+    p Se refiere a un documento de tipo organizacional, mediante el cual se establece interacción con entes externos e internos, a través de información. Es utilizado para hacer énfasis sobre un tema concreto y específico. Se puede elaborar de forma física o por medio electrónico, según la herramienta dispuesta para tal fin.
     p.mb-5 Los siguientes son los aspectos generales del documento comunicaciones:
+    
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         ImagenInfografica.color-acento-boton.mb-5.btn-s
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/temas/tema4/img-2.svg')
+              img(src='@/assets/curso/temas/tema4/img-infog.svg')
           .tarjeta.color-acento-botones.fnd-4.p-3(x="48.8%" y="12.6%" numero="+")
             h3 Fuente
             p Debe ser clara, agradable a la vista del lector; homogénea, con el fin de no presentar inconvenientes para su lectura, impresión, digitalización y microfilmación. <br> Los tamaños deben estar entre los 10 y 12 puntos, utilizados en los procesadores de texto.
@@ -58,10 +60,10 @@
             h3 Zona 2
             p Impresión de dirección, apartado, correo electrónico, sitio web, fax, teléfono, lugar de origen y país.
 
-    p.mb-3 La documentación organizacional también contiene elementos esenciales que debemos conocer.
+    p La documentación organizacional también contiene elementos esenciales que debemos conocer.
     p.mb-5 A continuación, se presentan cada uno de ellos:
 
-    AcordionA(tipo="a" clase-tarjeta="tarjeta t-pur2 mb-5")
+    AcordionA(tipo="a" clase-tarjeta="tarjeta t-pur2").mb-5
       .row(titulo="Identificación de páginas subsiguientes")
           p.pp-l El encabezado y el número de página correspondiente, permiten identificar el documento a partir de la segunda página; se deben ubicar en la parte superior izquierda, a cero o una interlínea libre de la zona 1, debidamente justificados y, para continuar con el texto, se dejan una o dos interlíneas libres.
       .row(titulo="Código")
@@ -100,7 +102,7 @@
         | 
         h3.text-black Cartas
 
-    p.mb-3 Se refiere al documento escrito u oficio -en algunas organizaciones-, que se aplica para las relaciones entre las entidades y personas naturales o con los empleados; su utilización debe ser coherente con el acuerdo 060 del Archivo General de la Nación de 2001 y los lineamientos de elaboración y partes de la misma, las describe la GTC 185 en el numeral 5.4. 
+    p Se refiere al documento escrito u oficio -en algunas organizaciones-, que se aplica para las relaciones entre las entidades y personas naturales o con los empleados; su utilización debe ser coherente con el acuerdo 060 del Archivo General de la Nación de 2001 y los lineamientos de elaboración y partes de la misma, las describe la GTC 185 en el numeral 5.4. 
     p.mb-5 Conozcamos los aspectos generales de la carta:
 
     .row.justify-content-center.align-items-center.mb-5
@@ -240,12 +242,11 @@
         | 
         h3.text-black Actas
 
-    p.mb-5 Se refiere al acto administrativo que se constituye en la constancia o memoria de las reuniones, cumple la finalidad de relacionar las actividades realizadas de acuerdo con la agenda planificada, registro de los asistentes y ausentes, además de la descripción de los compromisos generados, según el objeto de la misma. 
+    p Se refiere al acto administrativo que se constituye en la constancia o memoria de las reuniones, cumple la finalidad de relacionar las actividades realizadas de acuerdo con la agenda planificada, registro de los asistentes y ausentes, además de la descripción de los compromisos generados, según el objeto de la misma. 
     p.mb-5 Lo invitamos a ver el siguiente video, para conocer los componentes del acta:
     figure.mb-5
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/IIEdqAfuxu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
 
 
     p.mb-5 La Guía Técnica Colombiana GTC 185, plantea las siguientes características de redacción y presentación, que se deben considerar en la elaboración de las actas:
@@ -297,7 +298,7 @@
         .tarjeta.color-primario.p-3.mb-5.fnd-3
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/tema1/img-8.svg")
+              img.px-lg-1(src="@/assets/curso/temas/tema1/img-8.svg")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0

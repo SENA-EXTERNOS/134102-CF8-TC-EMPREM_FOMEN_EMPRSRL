@@ -17,8 +17,6 @@
 
     p.mb-5 Existen dos principios básicos de archivo: 
 
-
-
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .row.justify-content-center.align-items-center
@@ -75,7 +73,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .cajon.color-primario.p-4.fnd-1.px-5
-          p Por ello, el mejor método organizativo que se puede aplicar en el archivo es recrear y respetar el orden original en el que los documentos estuvieron o debieron estar en manos de sus creadores. Después de completar los pasos de identificación se pueden clasificar los documentos.
+          p.mb-0 Por ello, el mejor método organizativo que se puede aplicar en el archivo es recrear y respetar el orden original en el que los documentos estuvieron o debieron estar en manos de sus creadores. Después de completar los pasos de identificación se pueden clasificar los documentos.
 
     ul.lista-ul--color.mb-3
       li 

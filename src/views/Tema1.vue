@@ -7,7 +7,7 @@
         span 1
       h1 Historia y evolución de los archivos
 
-    p.mb-5 Es necesario iniciar este componente conociendo de dónde proviene la palabra archivo, esta procede del latín <em>archivum,</em> aunque su origen más remoto se encuentra en la lengua griega y puede traducirse como ‘residencia de los magistrados’. El término se utiliza para nombrar al conjunto ordenado de documentos que una sociedad, una institución o una persona elabora en el marco de sus actividades y funciones. (Definición. De, 2011, <em>definición de archivo,</em> párr. 1).
+    p Es necesario iniciar este componente conociendo de dónde proviene la palabra archivo, esta procede del latín <em>archivum,</em> aunque su origen más remoto se encuentra en la lengua griega y puede traducirse como ‘residencia de los magistrados’. El término se utiliza para nombrar al conjunto ordenado de documentos que una sociedad, una institución o una persona elabora en el marco de sus actividades y funciones. (Definición. De, 2011, <em>definición de archivo,</em> párr. 1)
     p.mb-5 Para conocer la importancia de la historia de los archivos en la sociedad se invita a ver el siguiente video:
 
 
@@ -28,7 +28,7 @@
       .col-lg-10
         .cajon.color-primario.p-4.fnd-1.px-5
    
-          p Es importante conocer, también, sobre el estudio de la historia institucional, este según Gómez, J. (s.f.), es el análisis histórico de las instituciones que integran la organización administrativa del estado, desde el origen jurídico que las fundamenta. Se ocupa de comprender a las instituciones políticas en su función administrativa, estructura, evolución histórica y en su proceso de acción o intervención en la sociedad (p.1).
+          p.mb-0 Es importante conocer, también, sobre el estudio de la historia institucional, este según Gómez, J. (s.f.), es el análisis histórico de las instituciones que integran la organización administrativa del estado, desde el origen jurídico que las fundamenta. Se ocupa de comprender a las instituciones políticas en su función administrativa, estructura, evolución histórica y en su proceso de acción o intervención en la sociedad (p.1).
 
     p.mb-5 En ella se resaltan los cambios que han tenido las instituciones a lo largo del tiempo determinando aspectos trascendentales y necesarios como lo es el alcance, este permite reconocer y construir una recopilación memorial desde sus orígenes legales, antecedentes y desarrollo de funciones, hasta el contenido en donde se detalla la transformación administrativa estructural resultante de la evolución de esta normativa o rediseño orgánico-funcional de la institución.
 
@@ -123,7 +123,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .cajon.color-primario.p-4.tarjeta--azul2.px-5
-          p Recuerde que estas normas, en su naturaleza, definen y establecen el alcance y uso de los documentos, el método y la duración de la conservación; así como el flujo de documentos históricos que se transferirán a los archivos históricos y los estándares de calidad. Además se deben cumplir los procesos estipulados, y no se puede tomar ninguna decisión sin consultar la normativa vigente.
+          p.mb-0 Recuerde que estas normas, en su naturaleza, definen y establecen el alcance y uso de los documentos, el método y la duración de la conservación; así como el flujo de documentos históricos que se transferirán a los archivos históricos y los estándares de calidad. Además, se deben cumplir los procesos estipulados, y no se puede tomar ninguna decisión sin consultar la normativa vigente.
 
     br
     ul.lista-ul--color.mb-3
@@ -158,7 +158,7 @@
         .tarjeta.color-primario.p-3.mb-5.fnd-3
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/tema1/img-8.svg")
+              img.px-lg-1(src="@/assets/curso/temas/tema1/img-8.svg")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
@@ -192,7 +192,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .cajon.color-acento-contenido.p-4.fnd-2.px-5
-          p Es importante tener presente que cada institución puede diseñar su formato, no existe uno genérico para las instituciones, sin embargo, en las organizaciones privadas este va de la mano con las políticas internas en las que debe definir, personalizar y aplicar lo que se considere, además este se debe ajustar a la organización, consultando los requisitos y directrices bajo su respectivo ordenamiento jurídico.
+          p.mb-0 Es importante tener presente que cada institución puede diseñar su formato, no existe uno genérico para las instituciones, sin embargo, en las organizaciones privadas este va de la mano con las políticas internas en las que debe definir, personalizar y aplicar lo que se considere, además este se debe ajustar a la organización, consultando los requisitos y directrices bajo su respectivo ordenamiento jurídico.
 
 
 
