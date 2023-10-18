@@ -240,8 +240,8 @@
 
     .row.justify-content-center.align-items-center
       .col-lg-7
-        TabsA.color-acento-contenido.mb-5
-          .tarjeta.tarjeta--azul2.p-4(titulo="El contenido")
+        TabsC.color-acento-contenido.mb-5
+          .tarjeta.tarjeta--azul2.p-4.mb-4(titulo="El contenido")
             ul.lista-ul--color.mb-3
               li.mb-0 
                 i.fas.fa-check
@@ -259,7 +259,7 @@
                 i.fas.fa-check
                 p.mb-0 Documentos facilitativos
    
-          .tarjeta.tarjeta--azul2.p-4(titulo="La tradición <br> documental")
+          .tarjeta.tarjeta--azul2.p-4.mb-4(titulo="La tradición  documental")
             ul.lista-ul--color.mb-3
               li.mb-0 
                 i.fas.fa-check
@@ -274,7 +274,7 @@
                 i.fas.fa-check
                 p.mb-0 Minuta
    
-          .tarjeta.tarjeta--azul2.p-4(titulo="El nivel de<br> accesibilidad")
+          .tarjeta.tarjeta--azul2.p-4.mb-4(titulo="El nivel de accesibilidad")
             ul.lista-ul--color.mb-3
               li.mb-0 
                 i.fas.fa-check
@@ -289,7 +289,7 @@
                 i.fas.fa-check
                 p.mb-0 Documentos confidenciales
      
-          .tarjeta.tarjeta--azul2.p-4(titulo="La clase")
+          .tarjeta.tarjeta--azul2.p-4.mb-4(titulo="La clase")
             ul.lista-ul--color.mb-3
               li.mb-0 
                 i.fas.fa-check
@@ -313,7 +313,7 @@
                 i.fas.fa-check
                 p.mb-0 Documentos materiales
        
-          .tarjeta.tarjeta--azul2.p-4(titulo="El ente o <br>autor")
+          .tarjeta.tarjeta--azul2.p-4.mb-4(titulo="El ente o autor")
             ul.lista-ul--color.mb-3
               li.mb-0 
                 i.fas.fa-check

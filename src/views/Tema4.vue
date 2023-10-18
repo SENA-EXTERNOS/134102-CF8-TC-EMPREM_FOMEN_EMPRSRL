@@ -221,16 +221,16 @@
         figure
           img(src='@/assets/curso/temas/tema4/img-5.svg')      
       .col-lg-8.col-md-9
-        TabsA.color-acento-contenido.mb-5
-          .tarjeta.tarjeta--azul2.p-4(titulo="Encabezado")
+        TabsC.color-acento-contenido.mb-5
+          .tarjeta.tarjeta--azul2.p-4.mb-4(titulo="Encabezado")
             p De cero a una interlínea libre de la zona 1 se escribe la palabra circular, en mayúscula sostenida y centrada, acompañada por el consecutivo que la identifica, si se requiere.    
-          .tarjeta.tarjeta--azul2.p-4(titulo="Código")
+          .tarjeta.tarjeta--azul2.p-4.mb-4(titulo="Código")
             p Escribirlo a una o dos interlíneas libres del encabezado.    
-          .tarjeta.tarjeta--azul2.p-4(titulo="Lugar y fecha")
+          .tarjeta.tarjeta--azul2.p-4.mb-4(titulo="Lugar y fecha")
             p Lugar de origen y fecha de elaboración. <br>Escribirlo a una o dos interlíneas libres del código.       
-          .tarjeta.tarjeta--azul2.p-4(titulo="Encabezamiento <br>y destinatarios")
+          .tarjeta.tarjeta--azul2.p-4(titulo="Encabezamiento y destinatarios")
             p De dos a tres interlíneas libres de la fecha, se escribe la palabra para, en mayúscula sostenida, seguida del grupo destinatario de la circular y su ubicación, de acuerdo con el estilo utilizado.   
-          .tarjeta.tarjeta--azul2.p-4(titulo="Asunto")
+          .tarjeta.tarjeta--azul2.p-4.mb-4(titulo="Asunto")
             p Se escribe a dos interlíneas libres de los datos del destinatario, contra el margen izquierdo.     
           .tarjeta.tarjeta--azul2.p-4(titulo="Texto")
             p Se inicia a las dos o tres interlíneas libres del asunto. Se escribe a interlineación sencilla y cada párrafo se separa del anterior, con una interlínea libre. En circulares de uno o dos párrafos, se puede dejar interlineación de uno y medio entre renglones y doble entre párrafos.     

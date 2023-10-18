@@ -102,18 +102,18 @@
     p.mb-5 Estas leyes son:
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7
-        TabsA.color-acento-contenido.mb-5
-          .tarjeta.tarjeta--azul2.p-4(titulo="Ley 80 de<br> 1989")
+        TabsC.color-acento-contenido.mb-5
+          .tarjeta.tarjeta--azul2.p-4.mb-4(titulo="Ley 80 de<br> 1989")
             p Por la cual se crea el Archivo General de la Nación y se dictan otras disposiciones.       
-          .tarjeta.tarjeta--azul2.p-4(titulo="Ley 4 de<br> 1993")
+          .tarjeta.tarjeta--azul2.p-4.mb-4(titulo="Ley 4 de<br> 1993")
             p Obligación de las entidades oficiales de entregar y recibir inventariados los documentos de los archivos.       
-          .tarjeta.tarjeta--azul2.p-4(titulo="Ley 44 de<br> 1993")
+          .tarjeta.tarjeta--azul2.p-4.mb-4(titulo="Ley 44 de<br> 1993")
             p Sobre derechos de autor, funcionarios públicos.       
-          .tarjeta.tarjeta--azul2.p-4(titulo="Ley 527 de<br> 1999")
+          .tarjeta.tarjeta--azul2.p-4.mb-4(titulo="Ley 527 de<br> 1999")
             p Por medio de la cual se define y reglamenta el acceso y uso de los mensajes de datos, del comercio electrónico y las firmas digitales, y se establecen las entidades de certificación y se dictan otras disposiciones.       
-          .tarjeta.tarjeta--azul2.p-4(titulo="Ley 594 de<br> 2000")
+          .tarjeta.tarjeta--azul2.p-4.mb-4(titulo="Ley 594 de<br> 2000")
             p Por medio de la cual se dicta la Ley General de Archivos y se dictan otras disposiciones.       
-          .tarjeta.tarjeta--azul2.p-4(titulo="Ley 734 de<br> 2002")
+          .tarjeta.tarjeta--azul2.p-4.mb-4(titulo="Ley 734 de<br> 2002")
             p Código Disciplinario Único.       
 
       .col-lg-5
