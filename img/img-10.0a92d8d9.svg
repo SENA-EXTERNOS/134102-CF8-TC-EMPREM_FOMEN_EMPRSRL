@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="150" viewBox="0 0 150 150">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_44176" data-name="Rectángulo 44176" width="82" height="82" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_163905" data-name="Grupo 163905" transform="translate(-8681.666 14974.432)">
+    <g id="Grupo_163839" data-name="Grupo 163839" transform="translate(8391.666 -16122.463)">
+      <g id="Grupo_136627" data-name="Grupo 136627" transform="translate(-83 -2250.969)">
+        <path id="Trazado_170461" data-name="Trazado 170461" d="M75,0A75,75,0,1,1,0,75,75,75,0,0,1,75,0Z" transform="translate(373 3399)" fill="#fff"/>
+      </g>
+      <g id="Grupo_136907" data-name="Grupo 136907" transform="translate(324 1182.03)">
+        <path id="Trazado_202631" data-name="Trazado 202631" d="M0,0H79.1V47.04H0Z" transform="translate(2.898 29.494)" fill="#fff"/>
+        <rect id="Rectángulo_44162" data-name="Rectángulo 44162" width="79.102" height="16.681" transform="translate(2.898 10.379)" fill="#6677d6"/>
+        <rect id="Rectángulo_44163" data-name="Rectángulo 44163" width="16.679" height="10.23" transform="translate(8.946 59.642)" fill="#ffef0f"/>
+        <g id="Grupo_136906" data-name="Grupo 136906" transform="translate(0 0)">
+          <g id="Grupo_136905" data-name="Grupo 136905" clip-path="url(#clip-path)">
+            <path id="Trazado_172226" data-name="Trazado 172226" d="M79.268,8.2H68.334V0H62.867V8.2H19.134V0H13.666V8.2H2.734A2.732,2.732,0,0,0,0,10.933V79.266A2.733,2.733,0,0,0,2.734,82H79.268A2.731,2.731,0,0,0,82,79.266V10.933A2.731,2.731,0,0,0,79.268,8.2m-65.6,5.466v5.466h5.468V13.666H62.867v5.466h5.466V13.666h8.2V24.6H5.466V13.666Zm-8.2,16.4H76.534V76.534H5.466Z" transform="translate(0 -0.001)"/>
+            <rect id="Rectángulo_44164" data-name="Rectángulo 44164" width="10.934" height="5.466" transform="translate(12.299 39.634)"/>
+            <rect id="Rectángulo_44165" data-name="Rectángulo 44165" width="10.934" height="5.466" transform="translate(27.789 39.634)"/>
+            <rect id="Rectángulo_44166" data-name="Rectángulo 44166" width="10.934" height="5.466" transform="translate(43.277 39.634)"/>
+            <rect id="Rectángulo_44167" data-name="Rectángulo 44167" width="10.934" height="5.466" transform="translate(58.766 39.634)"/>
+            <rect id="Rectángulo_44168" data-name="Rectángulo 44168" width="10.934" height="5.466" transform="translate(12.299 50.566)"/>
+            <rect id="Rectángulo_44169" data-name="Rectángulo 44169" width="10.934" height="5.466" transform="translate(27.789 50.566)"/>
+            <rect id="Rectángulo_44170" data-name="Rectángulo 44170" width="10.934" height="5.466" transform="translate(43.277 50.566)"/>
+            <rect id="Rectángulo_44171" data-name="Rectángulo 44171" width="10.934" height="5.466" transform="translate(58.766 50.566)"/>
+            <rect id="Rectángulo_44172" data-name="Rectángulo 44172" width="10.934" height="5.466" transform="translate(12.299 61.5)"/>
+            <rect id="Rectángulo_44173" data-name="Rectángulo 44173" width="10.934" height="5.466" transform="translate(27.789 61.5)"/>
+            <rect id="Rectángulo_44174" data-name="Rectángulo 44174" width="10.934" height="5.466" transform="translate(43.277 61.5)"/>
+            <rect id="Rectángulo_44175" data-name="Rectángulo 44175" width="10.934" height="5.466" transform="translate(58.766 61.5)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
