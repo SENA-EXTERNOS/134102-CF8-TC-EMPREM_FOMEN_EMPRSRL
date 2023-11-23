@@ -165,11 +165,6 @@ export default {
       link:
         'https://www.minjusticia.gov.co/programas-co/SIG/Informes/Memoria%20-%20Normograma%20y%20documental.pdf',
     },
-    {
-      referencia:
-        'Parra, G. (2017).<em> La gestión documental en las universidades públicas de Bogotá D.C.: Aplicación Normatividad. </em>Información archivística Rio de Janeiro.',
-      link: 'https://brapci.inf.br/index.php/res/download/54475',
-    },
   ],
   glosario: [
     {
